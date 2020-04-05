@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-	<title>Kumar Shashank</title>
+	
 
 		<h1><div id="name_heading" align="center">Kumar Shashank</div></h1>
 
