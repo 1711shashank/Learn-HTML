@@ -22,7 +22,7 @@
 						<a href="https://www.linkedin.com/in/1711shashank" target="_blank"><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" width="40"> </a>
 
 
-						<a href="https://api.whatsapp.com/send?phone=918340767018&text=Hi%20Shashank%21%21&source=&data=" target="_blank"><img src="whatsapp_logo.jpg" width="40"> </a>
+						<a href="https://api.whatsapp.com/send?phone=918340767018&text=Hi%20Shashank%21%21&source=&data=" target="_blank"><img src="https://parentzone.org.uk/sites/default/files/soon-873316_1280.png" width="40"> </a>
 
 
 						<a href="https://twitter.com/1711shashank" target="_blank"><img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-articleLarge-v4.jpg" width="40"> </a>
