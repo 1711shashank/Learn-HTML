@@ -27,7 +27,7 @@
 
 						<a href="https://twitter.com/1711shashank" target="_blank"><img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-articleLarge-v4.jpg" width="40"> </a>
 
-						<a href="mailto:1711shashank@gmail.com?Subject=Hello" target="_blank"><img src="https://lh3.googleusercontent.com/proxy/T_AN-zwWE9h-0bZfVUZ0kOb_uQ0ckSszq-zmUGXrFLHe8O5e4CYGJceMHy2jD2pX5Ru4MqKB5CmdJqrCaAd8xzAjj9dam-xAP_9GRi9nq726eRiQfyXBkOci5kdIOw" width="40"> </a>
+						<a href="mailto:1711shashank@gmail.com?Subject=Hello" target="_blank"><img src="https://image.freepik.com/free-vector/email-envelope-concept_34259-135.jpg" width="40"> </a>
 
 						<a href="https://github.com/1711shashank" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"> </a><br><br>
 
